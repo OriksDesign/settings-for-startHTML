@@ -2,13 +2,13 @@
 
 install node.js
 
-//check versions node
+//check versions node//
 node -v 
 
 npm i -g gulp npm-check-updates
 
-//check versions gulp
+//check versions gulp//
 gulp -v
 
-//check new versions psckage.json
+//check new versions psckage.json//
 ncu
