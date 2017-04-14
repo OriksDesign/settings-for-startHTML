@@ -1,7 +1,7 @@
 <script type="text/javascript">
    $(document).ready(function() {
       $("#my-menu").mmenu({
-         extensions: ["widescreen"] // - меню всегда отображается.// "theme-dark" // - темная тема 
+         "extensions": ["widescreen"] // - меню всегда отображается.// "theme-dark" // - темная тема 
          // "fx-menu-slide"// - эффект слайда  // "fx-listitems-slide" // эффект пролистывания (одно за другим элементы списка)
          //"pagedim-black"// - затемняет все кроме открывшегося меню
          "offCanvas": {
